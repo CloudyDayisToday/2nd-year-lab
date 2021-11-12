@@ -1,0 +1,2 @@
+This is my D1 laboratory about designing a filter with SystemVerilog. The underlying mechanics is the inverse Fourier transformation of two function multiplying each other to the  
+convolution of two functions in time domain.
